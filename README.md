@@ -137,11 +137,16 @@ Project [cast(...) AS ...]
 
 ## Screenshots
 
-
+Execution Plan
 ![Query Plan](explain.png)
-![Pipeline Execution](success.png)
-![Optimization Details](optimization.png)
 
+Success Pipline
+![Pipeline Execution](success.png)
+
+Query Detail
+![Optimization Details](query1.png)
+
+![Optimization Details](query2.png)
 
 ---
 
