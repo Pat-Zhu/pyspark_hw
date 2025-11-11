@@ -137,11 +137,11 @@ Project [cast(...) AS ...]
 
 ## Screenshots
 
-```markdown
-![Query Plan](screenshots/explain.png)
-![Pipeline Execution](screenshots/success.png)
-![Optimization Details](screenshots/optimization.png)
-```
+
+![Query Plan](explain.png)
+![Pipeline Execution](success.png)
+![Optimization Details](optimization.png)
+
 
 ---
 
